@@ -17,7 +17,7 @@ Virtual gallery built with Unity we made for a school project. The installed art
 </br>
 
 ## Music
-* [Subcreator](https://soundcloud.com/subcreator)
+* Tranquility - [Subcreator](https://soundcloud.com/subcreator)
 
 </br>
 
